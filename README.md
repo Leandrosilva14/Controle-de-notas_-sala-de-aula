@@ -2,7 +2,7 @@
 ``` java
 //importa a classe Scanner para o usuário poder inserir dados
 
-> import java.util.Scanner;
+import java.util.Scanner;
 
 //cria a classe principal do código
 
@@ -16,7 +16,7 @@ public class Sala_de_aula< {
         //cria o vetor com o número de alunos a serem inseridos
         String nome[] = new String[15];
         
-        ### 
+        //Começa o laço de repetição para aparecer sempre que o usuário terminar uma ação e não escolher a opção nº 6
         while (i != 6) {
             System.out.println("Opcao 1: Adicionar nota aos alunos no primeiro semestre" + "\n" +
                                 "Opcao 2: Adicionar nota aos alunos no segundo semestre" + "\n" +

@@ -1,4 +1,4 @@
-# Controle-de-notas_-sala-de-aula
+# Controle de notas_sala de aula
 ``` java 
 import java.util.Scanner;
 

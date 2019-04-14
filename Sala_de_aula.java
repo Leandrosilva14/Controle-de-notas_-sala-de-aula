@@ -1,8 +1,5 @@
-#Controle de notas
-
-//importa a classe para o usuário poder inserir dados
 import java.util.Scanner;
-// cria a classe principal do código
+
 public class Sala_de_aula {
     public static void main(String[] args){
         int i= 0;

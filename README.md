@@ -1,4 +1,8 @@
 # Controle de notas_sala de aula
+## Descrição do problema desenvolvido e um exemplo de utilização;
+>Este problema é um caso bastante antigo, onde hoje em dia é de fácil acesso a todos que precisam resolve-lo, para anotar e armazenar as notas dos alunos em sala de aula não é mais preciso de papel e caneta, por isso foi desenvolvido essa ideia de programa, que cuida de armazenar as notas inseridas dos alunos para um acesso mais fácil e prático, onde não ocorre o risco de acabar perdendo as folhas de anotações de notas.
+O caso mais claro de exemplo de utilização, se não for o único, é de um professor, onde ele poderá gerenciar as notas de todos os seus alunos utilizando este programa, o que tornará sua vida mais simples e prática.
+
 ``` java
 //Importa a classe Scanner para o usuário poder inserir dados
 

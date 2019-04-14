@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 //Cria a classe principal do código
 
-public class Sala_de_aula< {
+public class Sala_de_aula {
     public static void main(String[] args){  
         int i= 0;
         //Cria o vetor com o número de notas por aluno a ser inserido no primeiro semestre

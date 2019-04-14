@@ -1,14 +1,12 @@
 # Controle de notas_sala de aula
-### Importa a classe Scanner para o usuário poder inserir dados
-``` java 
+### importa a classe Scanner para o usuário poder inserir dados
+``` bash
 import java.util.Scanner;
-``` 
+```
 ### cria a classe principal do código
-``` java 
+``` bash
 public class Sala_de_aula {
-    public static void main(String[] args){
-```    
-        ### define a posicao inicial da opção a ser selecionada pelo usuário
+    public static void main(String[] args)```{  
         int i= 0;
         //cria o vetor com o número de notas por aluno a ser inserido no primeiro semestre//
         float nota_1[] = new float[15];
@@ -16,6 +14,7 @@ public class Sala_de_aula {
         float nota_2[] = new float[15];
         //cria o vetor com o número de alunos a serem inseridos//
         String nome[] = new String[15];
+´´´        
         while (i != 6) {
             System.out.println("Opcao 1: Adicionar nota aos alunos no primeiro semestre" + "\n" +
                                 "Opcao 2: Adicionar nota aos alunos no segundo semestre" + "\n" +

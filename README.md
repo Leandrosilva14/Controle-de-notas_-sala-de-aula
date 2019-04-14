@@ -6,8 +6,8 @@ import java.util.Scanner;
 ### cria a classe principal do código
 ``` bash
 public class Sala_de_aula {
-    public static void main(String[] args)```{  
-        int i= 0;
+    public static void main(String[] args){  
+```        int i= 0;
         //cria o vetor com o número de notas por aluno a ser inserido no primeiro semestre//
         float nota_1[] = new float[15];
         //cria o vetor com o número de notas por aluno a ser inserido no segundo semestre//
